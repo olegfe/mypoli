@@ -1,0 +1,26 @@
+﻿{% extends "app/layout.html" %}
+
+{% block content %}
+<div>
+<h3>Добавить статью.</h3>
+<h1>Видео по нашей тематике</h1>
+<video src="/media/video.webm" controls="controls" width="400" height="200" poster="/media/11.jpg">
+</video>
+</div>
+<div>
+    <video src="/media/video1.ogg" controls="controls" width="400" height="200" poster="/media/111.jpg">
+</video>
+</div>
+
+<div>
+    <video width="400" height="300" controls ="controls" poster="/media/11.jpg">
+        <source src="/media/video.mp4" type="video/mp4";
+                codecs ="avc1.42E01E, mp4a.40.2">
+        <source src="/media/video.webm" type="video/webm";
+                codecs="vp8, vorbis" >
+       
+    </video>
+</div>
+
+
+{% endblock %}
