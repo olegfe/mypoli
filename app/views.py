@@ -130,7 +130,7 @@ def blog(request):
         request,
         'app/blog.html',
         {
-            'title':'блог',
+            'title':'Полезные статьи',
             'posts':posts,
             'year':datetime.now().year,
         }

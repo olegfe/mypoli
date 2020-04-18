@@ -46,3 +46,31 @@ input[type="checkbox"].input-validation-error {
     display:flex;
     justify-content: space-between;
 }
+						/* Настраиваем страницу со статьями*/
+
+.blog_page a {
+	padding:5px;
+	color:white;
+	background-color:darkblue;
+	text-transform:uppercase;
+	text-decoration:none;
+}
+
+.blog_page h2 {
+	font-weight:700;
+}
+
+.blog_page h4 {
+	font-weight: 200;
+	font-size:12px;
+}
+
+.blog_page p {
+	font-weight: 400;
+	font-size: 14px;
+}
+
+.title_page h2 {
+	font-size:24px;
+	font-weight:200;
+}

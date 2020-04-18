@@ -4527,7 +4527,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > li > a:focus {
 	color: white;
 	background-color: lightblue;
-	border-radius: 20%;
+	border-radius: 5%;
 	}
 
 .navbar-inverse .navbar-nav > .active > a,
