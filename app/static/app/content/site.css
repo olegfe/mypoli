@@ -52,8 +52,35 @@ input[type="checkbox"].input-validation-error {
     height:200px;
     display:flex;
     justify-content: space-between;
+	position:relative;
 }
+
+.client1 p {
+	width:293px;
+	
+}
+.client2 p {
+	width: 293px;
+	
+}
+.client3 p {
+	width: 293px;
+	
+}
+	
+
 						/* Настраиваем страницу со статьями*/
+
+
+.blog_page_display {
+	background-color:#e9e9e9;
+	width:1200px;
+	display:flex;
+	justify-content:space-between;
+	padding:5px;
+	padding-left:10px;
+}
+
 
 .blog_page a {
 	padding:5px;

@@ -31,6 +31,7 @@ urlpatterns = [
     url(r'^newpost$', app.views.newpost, name='newpost'),
     url(r'^videopost$', app.views.videopost, name='videopost'),
     
+    
    
 
   
