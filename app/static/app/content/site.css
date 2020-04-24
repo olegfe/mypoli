@@ -76,7 +76,7 @@ input[type="checkbox"].input-validation-error {
 }
 	
 
-						/* Настраиваем страницу со статьями*/
+						/* page posts*/
 
 
 .blog_page_display {
@@ -86,6 +86,7 @@ input[type="checkbox"].input-validation-error {
 	justify-content:space-between;
 	padding:5px;
 	padding-left:10px;
+	margin-top:25px;
 }
 
 
@@ -116,7 +117,7 @@ input[type="checkbox"].input-validation-error {
 	font-weight:200;
 }
 
-/* страница с видео*/
+/* video page*/
 
 .video_page div {
 	display:flex;
@@ -139,14 +140,14 @@ input[type="checkbox"].input-validation-error {
 
 
 
-/* навигация сверху*/
+/* nav in the top*/
 
 .nav navbar-nav a {
 	font-weight:500;
 	color:white;
 }
 
-					/*кооментарии*/
+					/*Comments*/
 
 .comment h7{
 	color:gray;
@@ -176,7 +177,7 @@ input[type="checkbox"].input-validation-error {
 	border-radius:5px;
 }
 
-/*О нас*/
+/*About us*/
 
 .metod_rab {
 	margin: 0 auto;
@@ -187,17 +188,17 @@ input[type="checkbox"].input-validation-error {
 	height: 250px;
 }
 
-	.metod_rab h1 {
+.metod_rab h1 {
 		color: #1A142E;
-	}
+}
 
-	.metod_rab h2 {
+.metod_rab h2 {
 		color: #1A142E;
 		margin: 0;
 		font-weight: 700;
 		margin-left: 50px;
 		position: relative;
-	}
+}
 
 .fast_img {
 	margin: 0;
